@@ -1,0 +1,1 @@
+# excluir-varios-elementos-de-um-array-de-uma-vez-so-sem-se-perder-no-index
